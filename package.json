@@ -1,0 +1,19 @@
+{
+  "name": "js-gif",
+  "version": "1.0.0",
+  "description": "A port of jsgif for use with commonJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gif",
+    "jsgif"
+  ],
+  "author": "Joe Lepper",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joeLepper/js-gif.git"
+  },
+}
